@@ -4,7 +4,7 @@ public class Var4 {
     public static void main(String[] args) {
         int a; // .out의 Var4.class 파일을 보면 이 int a; 코드가 사라지는데,
                 // 이유는 변수 a를 사용하지 않으나 메모리만 차지하기에 자바에서 지워버린다.
-        System.out.println(a);
+        //System.out.println(a);
 
         /*
         * 변수를 선언하면 메모리상의 어떤 공간을 차지하고 사용한다.
