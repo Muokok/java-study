@@ -3,7 +3,7 @@ package condEx;
 public class GradeSwitchEx {
     public static void main(String[] args) {
         String grade = "A";
-        
+
         switch (grade){
             case "A":
                 System.out.println("탁월해");
